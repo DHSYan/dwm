@@ -53,6 +53,7 @@ static const Rule rules[] = {
     { "Spotify",  NULL,       NULL,       1 << 5,       0,           -1 },
     { "discord",  NULL,       NULL,       1 << 7,       0,           -1 },
     { "obsidian", NULL,       NULL,       1 << 2,       0,           -1 },
+    { "proton-mail", NULL,       NULL,       1 << 9,       0,           -1 },
 };
 
 /* layout(s) */
