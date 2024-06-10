@@ -50,7 +50,7 @@ static const Rule rules[] = {
     { "Google",      NULL,       NULL,       1,            0,           -1 },
     { "wezterm",     NULL,       NULL,       1 << 1,       0,           -1 },
     { "obsidian",    NULL,       NULL,       1 << 2,       0,           -1 },
-    { "LocalSend",   NULL,       NULL,       1 << 4,       0,           -1 },
+    { "localsend_app",   NULL,       NULL,       1 << 4,       0,           -1 },
     { "blueman",     NULL,       NULL,       1 << 4,       0,           -1 },
     { "Spotify",     NULL,       NULL,       1 << 5,       0,           -1 },
     { "discord",     NULL,       NULL,       1 << 7,       0,           -1 },
